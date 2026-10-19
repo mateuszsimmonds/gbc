@@ -7,3 +7,5 @@
 
 title: Demo notes repo
 theme: jekyll-theme-architect
+
+[Comp1238](comp1238.md)
